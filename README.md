@@ -9,11 +9,9 @@
 
 <img src="https://firebasestorage.googleapis.com/v0/b/my-images-debc9.appspot.com/o/projetos%2Fapp-todoreactnative%2Ftela%20inicial.png?alt=media&token=c9c880d1-145c-45ee-9257-8b09c0e4e8a0" alt="tela inicial" title="tela inicial" />
 
-<img src=https://firebasestorage.googleapis.com/v0/b/my-images-debc9.appspot.com/o/projetos%2Fapp-todoreactnative%2Fcadastrar-tarefa.png?alt=media&token=f19fc4cd-4719-430c-a196-829c6fb0b861" alt="cadastrar tarefa" title="cadastrar tarefa" />
+<img src="https://firebasestorage.googleapis.com/v0/b/my-images-debc9.appspot.com/o/projetos%2Fapp-todoreactnative%2Fcadastrar-tarefa.png?alt=media&token=f19fc4cd-4719-430c-a196-829c6fb0b861" alt="cadastrar tarefa" title="cadastrar tarefa" />
 
 <img src="https://firebasestorage.googleapis.com/v0/b/my-images-debc9.appspot.com/o/projetos%2Fapp-todoreactnative%2Ftarefa%20finalizada.png?alt=media&token=2fa4d843-1054-4ac7-9885-886ba6983abd" alt="tarefa finalizada" title="tarefa finalizada" />
-
-<img src="https://firebasestorage.googleapis.com/v0/b/my-images-debc9.appspot.com/o/projetos%2Fapp-todoreactnative%2Ftela%20inicial.png?alt=media&token=c9c880d1-145c-45ee-9257-8b09c0e4e8a0" alt="tela inicial" />
 
 ## Demonstration Video
 
