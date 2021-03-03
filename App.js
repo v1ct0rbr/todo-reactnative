@@ -1,6 +1,7 @@
 import { StatusBar } from 'expo-status-bar';
 import React, { useEffect, useState } from 'react';
-import { StyleSheet, Text, View, ImageBackground, ScrollView, ImagePropTypes, AsyncStorage, LogBox } from 'react-native';
+import { StyleSheet, Text, View, ImageBackground, ScrollView, ImagePropTypes, LogBox } from 'react-native';
+import AsyncStorage from '@react-native-async-storage/async-storage';
 import { useFonts, Lato_400Regular, Lato_900Black_Italic } from '@expo-google-fonts/lato'
 import FlashMessage, { showMessage } from 'react-native-flash-message'
 import { AppLoading } from 'expo';
